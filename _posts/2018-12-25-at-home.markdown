@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jane's paint!"
-date:   2018-12-26 00:07:00
+date:   2018-12-26 00:07:00 +0800
 categories: art
 ---
 她终于涂好了，很懒，不晒衣服。
