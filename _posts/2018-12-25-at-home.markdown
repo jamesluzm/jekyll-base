@@ -5,4 +5,4 @@ date:   2018-12-26 00:07:00 +0800
 categories: art
 ---
 她终于涂好了，很懒，不晒衣服。
-![local jpg tree](../jpg/IMG_20181226_000440.jpg)
+![local jpg tree](./assests/img/IMG_20181226_000440.jpg)
