@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "首页动态布局!"
+date:   2019-4-8 21:00:00 +0800
+categories: app
+---
+
+# 业务需求  
+[运营常见的动态化需求](http://www.woshipm.com/pmd/433779.html)  
+[从天猫、美团、去哪儿分析，前端开发者该如何把控移动APP动态化发展](http://rdc.hundsun.com/portal/article/811.html)  
+# 业界方案  
+[美团APPKIT动态化配置](https://tech.meituan.com/2018/09/27/appkit.html)  
+[Shield——开源的移动端页面模块化开发框架](https://tech.meituan.com/2017/12/28/shield-opensource.html)  
+# 思考  
