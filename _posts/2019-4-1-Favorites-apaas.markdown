@@ -10,3 +10,7 @@ categories: 收藏
 [App动态化体系梳理](https://www.jianshu.com/p/e177c374558a)  
 [有赞 App 动态化配置中心实践](https://zhuanlan.zhihu.com/p/26320092)  
 [如何设计一个配置中心的后端架构](https://juejin.im/entry/5a9f7904f265da239d48d6d4)  
+[大众点评配置中心Lion](http://yeming.me/2017/11/27/lion/)  
+[一篇好TM长的关于配置中心的文章](http://jm.taobao.org/2016/09/28/an-article-about-config-center/)  
+
+
