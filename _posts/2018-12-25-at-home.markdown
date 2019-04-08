@@ -13,7 +13,7 @@ categories: art
 []()
 []()
 
-<a href="Android 架构之秒级移动配置中心" target="_blank">https://juejin.im/entry/5a9f7904f265da239d48d6d4</a>
+<a href="https://juejin.im/entry/5a9f7904f265da239d48d6d4" target="_blank">Android 架构之秒级移动配置中心</a>
 
 
 她终于涂好了，很懒，不晒衣服。
